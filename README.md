@@ -1,5 +1,5 @@
 # MoneyLansAssignment
-<h1>🚀 Exciting Flutter Project Showcase 🚀</h1>
+<h1>🚀 Exciting Flutter Project Showcases 🚀</h1>
 
 <h1>📱 User Sign In/Out App</h1>
 
